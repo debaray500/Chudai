@@ -1,0 +1,21 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+  <style>  
+    .video-section { height: 60vh; width: 100%; }  
+    .ad-section { height: 40vh; width: 100%; }  
+  </style>  
+</head>  
+<body>  
+  <div class="video-section">  
+    <iframe  
+      src="https://drive.google.com/file/d/18WvUy6LFie0zkdyRCIo_QuEbZIqkmCiE/preview"  
+      style="width:100%; height:100%; border:none;"  
+      allowfullscreen>  
+    </iframe>  
+  </div>  
+  <div class="ad-section">  
+    <script type='text/javascript' src='//increasinglypatientstared.com/17/f2/44/17f2447fcb196cffd71b6620bba01a5a.js'></script>  
+  </div>  
+</body>  
+</html>  
